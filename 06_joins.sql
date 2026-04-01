@@ -1,7 +1,3 @@
-/*
-Aitividade Módulo 15
-*/
-
 USE restaurante;
 
 -- Visualização inicial das tabelas

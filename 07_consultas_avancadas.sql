@@ -1,7 +1,3 @@
-/*
-Atividade Módulo 16
-*/
-
 USE restaurante;
 
 -- Criando a view do join das quatro tabelas: pedidos, clientes, funcionarios e produtos

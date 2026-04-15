@@ -9,7 +9,7 @@ Este projeto simula um banco de dados de um restaurante com o objetivo de aplica
 Antes de começar, você precisa ter instalado:
 
 - MySQL Server (ou outro banco compatível com SQL)
-- MySQL Workbench / DBeaver / outro cliente SQL
+- MySQL Workbench 8.0 CE / DBeaver / outro cliente SQL
 
 ---
 

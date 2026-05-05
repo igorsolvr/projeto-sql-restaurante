@@ -107,16 +107,5 @@ O projeto inclui diferentes análises exploratórias sobre os dados do restauran
 
 ---
 
-## Insights de Negócio
-
-A partir das análises realizadas, é possível responder questões importantes como:
-
-- Quais clientes possuem maior valor para o negócio?  
-- Quais produtos contribuem mais para a receita?  
-- Qual é o ticket médio dos pedidos?  
-- Existem gargalos operacionais (ex: pedidos pendentes)?  
-- Quais categorias possuem maior valor agregado?  
-
-
 ### Observação
 ***Este projeto foi desenvolvido com fins educacionais, simulando um ambiente real de análise de dados para reforçar conceitos fundamentais de SQL aplicados ao contexto de negócio.***
